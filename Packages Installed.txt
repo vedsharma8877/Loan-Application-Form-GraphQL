@@ -1,0 +1,26 @@
+In server:
+
+npm init
+
+npm i express express-graphql graphql mongoose cors colors
+
+npm i -D nodemon dotenv
+
+
+In client:
+
+npm i axios formik yup moment react-router-dom react-input-mask
+
+npm i @mui/lab
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install @mui/x-data-grid 
+
+npm i react-toastify@8.2.0
+
+npm i @mui/icons-material 
+
+npm i @apollo/client graphql 
+
+npm i react-spinners
